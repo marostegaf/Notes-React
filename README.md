@@ -1,7 +1,7 @@
 <h1 align="center"> Notes </h1>
 
 <p align="center">
-<br>Simplifique sua vida agora mesmo com o nosso Bloco de Notas<br/>
+<br>Capture pensamentos agora mesmo com o Notes!<br/>
 </p>
 
 ### ![image](https://github.com/marostegaf/Notes-React/assets/103620713/7c2de27b-8a9c-4549-8450-eff40f1e8746)
@@ -32,5 +32,5 @@ typescript@5.3.3
 vite@5.1.1
   
 ## 💻 Projeto
-Disponível em: 🔗[Notes, clique aqui!]()
+Disponível em: 🔗[Notes, clique aqui!](https://notes-mm.vercel.app/)
 
