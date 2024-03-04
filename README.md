@@ -1,12 +1,15 @@
 <h1 align="center"> Notes </h1>
 
 <p align="center">
-<br>Bloco de notas para você se organizar!<br/>
+<br>Simplifique sua vida agora mesmo com o nosso Bloco de Notas<br/>
 </p>
 
-### ![image](https://github.com/marostegaf/notes-react/assets/103620713/c550c789-fc1b-4014-bc77-d872a665968e)
+### ![image](https://github.com/marostegaf/Notes-React/assets/103620713/7c2de27b-8a9c-4549-8450-eff40f1e8746)
+![mobile-notes](https://github.com/marostegaf/Notes-React/assets/103620713/d07d9ec7-2f93-466c-baa3-9f1d69d95295)
+
 
 ## 🧑🏻‍💻 Tecnologias
+#### Esse projeto foi desenvolvido durante a trilha de React do NLW EXPERT da RocketSeat! 
 - React
 - TypeScript
 - TailWind CSS
