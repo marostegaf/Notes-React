@@ -5,8 +5,7 @@
 </p>
 
 ### ![image](https://github.com/marostegaf/Notes-React/assets/103620713/7c2de27b-8a9c-4549-8450-eff40f1e8746)
-![mobile-notes](https://github.com/marostegaf/Notes-React/assets/103620713/d07d9ec7-2f93-466c-baa3-9f1d69d95295)
-
+![image](https://github.com/marostegaf/Notes-React/assets/103620713/c0fbfef9-35c7-49bc-a35b-44504d231e2a)
 
 ## 🧑🏻‍💻 Tecnologias
 #### Esse projeto foi desenvolvido durante a trilha de React do NLW EXPERT da RocketSeat! 
@@ -33,5 +32,5 @@ typescript@5.3.3
 vite@5.1.1
   
 ## 💻 Projeto
-Disponível em: 🔗[Em breve...]()
+Disponível em: 🔗[Notes, clique aqui!]()
 
